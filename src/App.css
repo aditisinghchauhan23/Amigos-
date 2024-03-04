@@ -346,7 +346,7 @@
 }
 .trash_icon{
   height: 1.25rem;
-  /* dis
+  /* display: none; */
   opacity: 0;
   color: white;
   &:hover{
